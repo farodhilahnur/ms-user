@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'rumahsakit.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'bkxnxvnxwzyvlsyq83ee',
-        'USER': 'uzhrds6zgjb5clsz',
-        'PASSWORD': 'diu0XhSOGEF1ZaK79JZt',
-        'HOST': 'bkxnxvnxwzyvlsyq83ee-mysql.services.clever-cloud.com',
+        'NAME': 'Dhila$rumah_sakit',
+        'USER': 'Dhila',
+        'PASSWORD': 'mysql123',
+        'HOST': 'Dhila.mysql.pythonanywhere-services.com',
         'PORT' : 3306
         }
 }
