@@ -79,12 +79,12 @@ WSGI_APPLICATION = 'rumahsakit.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'byatqr2mcosur0zpjwcg',
-        'USER': 'uotusnleetavz1lhnfsy',
-        'PASSWORD': 'ragi5oysrDHxlt78XgyuFzl3QmKPxl',
-        'HOST': 'byatqr2mcosur0zpjwcg-postgresql.services.clever-cloud.com',
-        'PORT' : 5432
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'bkxnxvnxwzyvlsyq83ee',
+        'USER': 'uzhrds6zgjb5clsz',
+        'PASSWORD': 'diu0XhSOGEF1ZaK79JZt',
+        'HOST': 'bkxnxvnxwzyvlsyq83ee-mysql.services.clever-cloud.com',
+        'PORT' : 3306
         }
 }
 
